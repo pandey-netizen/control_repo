@@ -10,3 +10,4 @@ ExecStart=/usr/bin/java -Xmx512M -Xms128M -jar minecraft_server.jar nogui
 
 [Install]
 WantedBy=multi-user.target
+
