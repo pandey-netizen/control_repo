@@ -9,4 +9,4 @@ WorkingDirectory=/opt/minecraft
 ExecStart=/usr/bin/java -Xmx512M -Xms128M -jar minecraft_server.jar nogui
 
 [Install]
-WantedBy=multi-user.target 
+WantedBy=multi-user.target
